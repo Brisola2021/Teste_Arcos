@@ -15,7 +15,7 @@ Projeto Desenvolvido para o processo seletivo da empresa Arcos feito em linguage
 | PAULO BRISOLA | 
   
   # O QUE É?
-Um software de cadastro  de produtos, estoques e registro de vendas para o cliente onde eles terão a disponibilidade de gerar suas informações e dados e assim exibí-los para consultas.
+Um software de cadastro  de produtos, estoques e registro de vendas para o cliente onde eles terão a disponibilidade de gerar suas informações, dados e assim exibí-los para consultas.
   
   # PARA QUEM?
 Oferecer suporte para o cliente que solicita automação de dados em sua empresa.
