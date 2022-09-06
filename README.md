@@ -6,7 +6,7 @@
   
   
   # COMO SURGIU ?
-   O projeto Arcos é composto de um sistema de criação e listagem de requisições no banco de dados, onde o usuário possui a disponibilidade da inserção de um cadastro com de produtos, estoques e vendas, e que também é capaz de fazer a listagem dos mesmos caso queira.
+   O projeto Arcos é composto de um sistema de criação e listagem de requisições no banco de dados, onde o usuário possui a disponibilidade da inserção de um cadastro com produtos, estoques e vendas, e que também é capaz de fazer a listagem dos mesmos caso queira.
     
   # DESENVOLVIDO
 Projeto Desenvolvido para o processo seletivo da empresa Arcos feito em linguagem MySql Workbench e um exemplo de protótipo DEMO(Incompleto) em springboot + Java 17 podendo ser sofisticado futuramente caso o cliente desejar.
